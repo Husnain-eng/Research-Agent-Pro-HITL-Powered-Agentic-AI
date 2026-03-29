@@ -1,0 +1,53 @@
+# 🔹 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Virtual environments
+.venv/
+venv/
+env/
+
+# 🔹 Jupyter Notebook
+.ipynb_checkpoints/
+
+# 🔹 Environment variables
+.env
+
+# 🔹 System files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Build files
+build/
+dist/
+*.egg-info/
+
+# 🔹 IDE/editor folders
+.vscode/
+.idea/
+
+# 🔹 Data files (optional - remove if you want to upload datasets)
+data/
+datasets/
+
+# 🔹 Model files (optional - large files)
+*.h5
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# 🔹 PDFs (your case)
+*.pdf
+
+# 🔹 CSV (optional)
+*.csv
+
+# 🔹 Temporary files
+*.tmp
+*.temp
